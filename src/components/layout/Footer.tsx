@@ -1,0 +1,3 @@
+export function Footer() {
+  return <footer className="mm-footer"><a href="#home" className="mm-logo"><span>MAN</span><b>MATTERS</b><i>®</i></a><p>Better informed. Better supported.<br/>Made for every step of your hair growth journey.</p><div className="mm-footer-links"><a href="#science">Hair growth science</a><a href="#care">Man Matters Care</a><a href="#doctor">Consult a doctor</a><a href="#stories">Customer journeys</a></div><small>© 2026 Man Matters · This prototype is for educational purposes. Medical decisions should be made with a qualified healthcare professional.</small><div className="mm-project-credit">HARSHIT JAIN’S PROJECT</div></footer>
+}
